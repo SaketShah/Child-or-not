@@ -9,10 +9,8 @@ Simple Child-or-not detector using Machine Learning
 4. Click on the detect button
 5. View Results
 
-## To Run the model
+## Dataset
 
-1. Clone this repository
-2. Download the dataset from [here](https://www.kaggle.com/datasets/jangedoo/utkface-new)
-3. Extract the dataset to your repository folder
-4. Open [Model in Jupyter Notebook](https://github.com/SaketShah/Age-Gender_detector/blob/main/model.ipynb)
-5. Run the Notebook
+1. Download the dataset from [here](https://www.kaggle.com/datasets/die9origephit/children-vs-adults-images)
+2. Extract the dataset to your repository folder
+
