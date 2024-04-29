@@ -4,7 +4,7 @@ Simple Child-or-not detector using Machine Learning
 ## To Run this file:
 
 1. Clone this repository
-2. Run [Child_or_not.ipynb]("C:\Users\Sanket\OneDrive\Desktop\Child or not\Child_or_not.ipynb") file
+2. Run [Child_or_not.ipynb](https://github.com/SaketShah/Child-or-not/blob/main/Child_or_not.ipynb) file
 3. Upload the image you want to detect
 4. Click on the detect button
 5. View Results
